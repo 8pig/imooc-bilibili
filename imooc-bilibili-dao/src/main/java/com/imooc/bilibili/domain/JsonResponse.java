@@ -18,7 +18,7 @@ public class JsonResponse<T> {
 
     public JsonResponse(T data){
         this.data = data;
-        this.msg = "message";
+        this.msg = "success";
         this.code = "0";
     }
 
