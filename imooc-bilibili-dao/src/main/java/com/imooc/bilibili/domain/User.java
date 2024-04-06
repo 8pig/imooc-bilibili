@@ -23,5 +23,8 @@ public class User {
     private Date createTime;
 
 
+    private UserInfo userInfo;
+
+
 
 }
